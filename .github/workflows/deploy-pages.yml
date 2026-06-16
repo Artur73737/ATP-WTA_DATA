@@ -1,0 +1,48 @@
+name: Deploy data viewer to GitHub Pages
+
+# Publishes the standalone data viewer (index.html, with all CSV data embedded)
+# to GitHub Pages so anyone can browse the data online, always available.
+# Push an updated index.html (regenerated locally with build_viewer) and it
+# redeploys automatically.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; don't cancel an in-progress one
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Assemble site (viewer only — data is embedded in index.html)
+        run: |
+          mkdir -p _site
+          cp index.html _site/index.html
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
