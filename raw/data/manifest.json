@@ -1,0 +1,800 @@
+{
+  "sources": {
+    "tennis_db": {
+      "elo": [
+        {
+          "name": "elo_active.csv",
+          "path": "tennis_db/elo/elo_active.csv",
+          "rows": 200,
+          "size_kb": 8.9
+        },
+        {
+          "name": "elo_by_current_ranking.csv",
+          "path": "tennis_db/elo/elo_by_current_ranking.csv",
+          "rows": 200,
+          "size_kb": 9.1
+        },
+        {
+          "name": "elo_career.csv",
+          "path": "tennis_db/elo/elo_career.csv",
+          "rows": 200,
+          "size_kb": 8.9
+        },
+        {
+          "name": "elo_single_season.csv",
+          "path": "tennis_db/elo/elo_single_season.csv",
+          "rows": 200,
+          "size_kb": 7.5
+        },
+        {
+          "name": "elo_year_by_year.csv",
+          "path": "tennis_db/elo/elo_year_by_year.csv",
+          "rows": 37,
+          "size_kb": 1.4
+        }
+      ],
+      "h2h": [
+        {
+          "name": "h2h_alejandro-falla_vs_gilles-muller.csv",
+          "path": "tennis_db/h2h/h2h_alejandro-falla_vs_gilles-muller.csv",
+          "rows": 1,
+          "size_kb": 0.1
+        },
+        {
+          "name": "h2h_andy-murray_vs_novak-djokovic.csv",
+          "path": "tennis_db/h2h/h2h_andy-murray_vs_novak-djokovic.csv",
+          "rows": 36,
+          "size_kb": 2.4
+        },
+        {
+          "name": "h2h_andy-murray_vs_rafael-nadal.csv",
+          "path": "tennis_db/h2h/h2h_andy-murray_vs_rafael-nadal.csv",
+          "rows": 25,
+          "size_kb": 1.7
+        },
+        {
+          "name": "h2h_andy-murray_vs_roger-federer.csv",
+          "path": "tennis_db/h2h/h2h_andy-murray_vs_roger-federer.csv",
+          "rows": 24,
+          "size_kb": 1.6
+        },
+        {
+          "name": "h2h_carlos-alcaraz_vs_jannik-sinner.csv",
+          "path": "tennis_db/h2h/h2h_carlos-alcaraz_vs_jannik-sinner.csv",
+          "rows": 17,
+          "size_kb": 1.2
+        },
+        {
+          "name": "h2h_carlos-alcaraz_vs_novak-djokovic.csv",
+          "path": "tennis_db/h2h/h2h_carlos-alcaraz_vs_novak-djokovic.csv",
+          "rows": 9,
+          "size_kb": 0.6
+        },
+        {
+          "name": "h2h_jozef-kovalik_vs_marcos-baghdatis.csv",
+          "path": "tennis_db/h2h/h2h_jozef-kovalik_vs_marcos-baghdatis.csv",
+          "rows": 1,
+          "size_kb": 0.1
+        },
+        {
+          "name": "h2h_juan-antonio-marin_vs_thomas-enqvist.csv",
+          "path": "tennis_db/h2h/h2h_juan-antonio-marin_vs_thomas-enqvist.csv",
+          "rows": 1,
+          "size_kb": 0.1
+        },
+        {
+          "name": "h2h_marco-cecchinato_vs_steve-darcis.csv",
+          "path": "tennis_db/h2h/h2h_marco-cecchinato_vs_steve-darcis.csv",
+          "rows": 1,
+          "size_kb": 0.1
+        },
+        {
+          "name": "h2h_mariano-puerta_vs_thomas-enqvist.csv",
+          "path": "tennis_db/h2h/h2h_mariano-puerta_vs_thomas-enqvist.csv",
+          "rows": 1,
+          "size_kb": 0.1
+        },
+        {
+          "name": "h2h_mark-knowles_vs_thomas-enqvist.csv",
+          "path": "tennis_db/h2h/h2h_mark-knowles_vs_thomas-enqvist.csv",
+          "rows": 1,
+          "size_kb": 0.1
+        },
+        {
+          "name": "h2h_novak-djokovic_vs_rafael-nadal.csv",
+          "path": "tennis_db/h2h/h2h_novak-djokovic_vs_rafael-nadal.csv",
+          "rows": 56,
+          "size_kb": 3.7
+        },
+        {
+          "name": "h2h_novak-djokovic_vs_roger-federer.csv",
+          "path": "tennis_db/h2h/h2h_novak-djokovic_vs_roger-federer.csv",
+          "rows": 50,
+          "size_kb": 3.3
+        },
+        {
+          "name": "h2h_rafael-nadal_vs_andy-murray.csv",
+          "path": "tennis_db/h2h/h2h_rafael-nadal_vs_andy-murray.csv",
+          "rows": 25,
+          "size_kb": 1.7
+        },
+        {
+          "name": "h2h_rafael-nadal_vs_roger-federer.csv",
+          "path": "tennis_db/h2h/h2h_rafael-nadal_vs_roger-federer.csv",
+          "rows": 41,
+          "size_kb": 2.7
+        },
+        {
+          "name": "h2h_roger-federer_vs_andy-murray.csv",
+          "path": "tennis_db/h2h/h2h_roger-federer_vs_andy-murray.csv",
+          "rows": 24,
+          "size_kb": 1.6
+        }
+      ],
+      "matches": [
+        {
+          "name": "matches_1968.csv",
+          "path": "tennis_db/matches/matches_1968.csv",
+          "rows": 200,
+          "size_kb": 16.2
+        },
+        {
+          "name": "matches_1969.csv",
+          "path": "tennis_db/matches/matches_1969.csv",
+          "rows": 200,
+          "size_kb": 16.0
+        },
+        {
+          "name": "matches_1970.csv",
+          "path": "tennis_db/matches/matches_1970.csv",
+          "rows": 200,
+          "size_kb": 16.1
+        },
+        {
+          "name": "matches_1971.csv",
+          "path": "tennis_db/matches/matches_1971.csv",
+          "rows": 200,
+          "size_kb": 16.1
+        },
+        {
+          "name": "matches_1972.csv",
+          "path": "tennis_db/matches/matches_1972.csv",
+          "rows": 200,
+          "size_kb": 16.4
+        },
+        {
+          "name": "matches_1973.csv",
+          "path": "tennis_db/matches/matches_1973.csv",
+          "rows": 200,
+          "size_kb": 17.2
+        },
+        {
+          "name": "matches_1974.csv",
+          "path": "tennis_db/matches/matches_1974.csv",
+          "rows": 200,
+          "size_kb": 17.3
+        },
+        {
+          "name": "matches_1975.csv",
+          "path": "tennis_db/matches/matches_1975.csv",
+          "rows": 200,
+          "size_kb": 17.5
+        },
+        {
+          "name": "matches_1976.csv",
+          "path": "tennis_db/matches/matches_1976.csv",
+          "rows": 200,
+          "size_kb": 18.1
+        },
+        {
+          "name": "matches_1977.csv",
+          "path": "tennis_db/matches/matches_1977.csv",
+          "rows": 200,
+          "size_kb": 18.5
+        },
+        {
+          "name": "matches_1978.csv",
+          "path": "tennis_db/matches/matches_1978.csv",
+          "rows": 200,
+          "size_kb": 18.6
+        },
+        {
+          "name": "matches_1979.csv",
+          "path": "tennis_db/matches/matches_1979.csv",
+          "rows": 200,
+          "size_kb": 18.5
+        },
+        {
+          "name": "matches_1980.csv",
+          "path": "tennis_db/matches/matches_1980.csv",
+          "rows": 200,
+          "size_kb": 18.7
+        },
+        {
+          "name": "matches_1981.csv",
+          "path": "tennis_db/matches/matches_1981.csv",
+          "rows": 200,
+          "size_kb": 18.6
+        },
+        {
+          "name": "matches_1982.csv",
+          "path": "tennis_db/matches/matches_1982.csv",
+          "rows": 200,
+          "size_kb": 18.4
+        },
+        {
+          "name": "matches_1983.csv",
+          "path": "tennis_db/matches/matches_1983.csv",
+          "rows": 200,
+          "size_kb": 19.0
+        },
+        {
+          "name": "matches_1984.csv",
+          "path": "tennis_db/matches/matches_1984.csv",
+          "rows": 200,
+          "size_kb": 18.8
+        },
+        {
+          "name": "matches_1985.csv",
+          "path": "tennis_db/matches/matches_1985.csv",
+          "rows": 200,
+          "size_kb": 18.9
+        },
+        {
+          "name": "matches_1986.csv",
+          "path": "tennis_db/matches/matches_1986.csv",
+          "rows": 200,
+          "size_kb": 17.8
+        },
+        {
+          "name": "matches_1987.csv",
+          "path": "tennis_db/matches/matches_1987.csv",
+          "rows": 200,
+          "size_kb": 17.7
+        },
+        {
+          "name": "matches_1988.csv",
+          "path": "tennis_db/matches/matches_1988.csv",
+          "rows": 200,
+          "size_kb": 18.0
+        },
+        {
+          "name": "matches_1989.csv",
+          "path": "tennis_db/matches/matches_1989.csv",
+          "rows": 200,
+          "size_kb": 17.7
+        },
+        {
+          "name": "matches_1990.csv",
+          "path": "tennis_db/matches/matches_1990.csv",
+          "rows": 200,
+          "size_kb": 18.5
+        },
+        {
+          "name": "matches_1991.csv",
+          "path": "tennis_db/matches/matches_1991.csv",
+          "rows": 200,
+          "size_kb": 18.5
+        },
+        {
+          "name": "matches_2026.csv",
+          "path": "tennis_db/matches/matches_2026.csv",
+          "rows": 100,
+          "size_kb": 9.8
+        }
+      ],
+      "players": [
+        {
+          "name": "players.csv",
+          "path": "tennis_db/players/players.csv",
+          "rows": 97,
+          "size_kb": 5.4
+        }
+      ],
+      "rankings": [
+        {
+          "name": "rankings_1968.csv",
+          "path": "tennis_db/rankings/rankings_1968.csv",
+          "rows": 284,
+          "size_kb": 13.2
+        },
+        {
+          "name": "rankings_1969.csv",
+          "path": "tennis_db/rankings/rankings_1969.csv",
+          "rows": 240,
+          "size_kb": 11.2
+        },
+        {
+          "name": "rankings_1970.csv",
+          "path": "tennis_db/rankings/rankings_1970.csv",
+          "rows": 263,
+          "size_kb": 12.2
+        },
+        {
+          "name": "rankings_1971.csv",
+          "path": "tennis_db/rankings/rankings_1971.csv",
+          "rows": 290,
+          "size_kb": 13.4
+        },
+        {
+          "name": "rankings_1972.csv",
+          "path": "tennis_db/rankings/rankings_1972.csv",
+          "rows": 322,
+          "size_kb": 14.9
+        },
+        {
+          "name": "rankings_1973.csv",
+          "path": "tennis_db/rankings/rankings_1973.csv",
+          "rows": 366,
+          "size_kb": 16.9
+        },
+        {
+          "name": "rankings_1974.csv",
+          "path": "tennis_db/rankings/rankings_1974.csv",
+          "rows": 380,
+          "size_kb": 17.5
+        },
+        {
+          "name": "rankings_1975.csv",
+          "path": "tennis_db/rankings/rankings_1975.csv",
+          "rows": 366,
+          "size_kb": 16.2
+        },
+        {
+          "name": "rankings_1976.csv",
+          "path": "tennis_db/rankings/rankings_1976.csv",
+          "rows": 360,
+          "size_kb": 16.6
+        },
+        {
+          "name": "rankings_1977.csv",
+          "path": "tennis_db/rankings/rankings_1977.csv",
+          "rows": 367,
+          "size_kb": 16.7
+        },
+        {
+          "name": "rankings_1978.csv",
+          "path": "tennis_db/rankings/rankings_1978.csv",
+          "rows": 384,
+          "size_kb": 17.7
+        },
+        {
+          "name": "rankings_1979.csv",
+          "path": "tennis_db/rankings/rankings_1979.csv",
+          "rows": 434,
+          "size_kb": 19.2
+        },
+        {
+          "name": "rankings_1980.csv",
+          "path": "tennis_db/rankings/rankings_1980.csv",
+          "rows": 496,
+          "size_kb": 22.8
+        },
+        {
+          "name": "rankings_1981.csv",
+          "path": "tennis_db/rankings/rankings_1981.csv",
+          "rows": 430,
+          "size_kb": 19.5
+        },
+        {
+          "name": "rankings_1982.csv",
+          "path": "tennis_db/rankings/rankings_1982.csv",
+          "rows": 422,
+          "size_kb": 18.9
+        },
+        {
+          "name": "rankings_1983.csv",
+          "path": "tennis_db/rankings/rankings_1983.csv",
+          "rows": 404,
+          "size_kb": 17.9
+        },
+        {
+          "name": "rankings_1984.csv",
+          "path": "tennis_db/rankings/rankings_1984.csv",
+          "rows": 356,
+          "size_kb": 15.8
+        },
+        {
+          "name": "rankings_1985.csv",
+          "path": "tennis_db/rankings/rankings_1985.csv",
+          "rows": 381,
+          "size_kb": 16.9
+        },
+        {
+          "name": "rankings_1986.csv",
+          "path": "tennis_db/rankings/rankings_1986.csv",
+          "rows": 364,
+          "size_kb": 16.1
+        },
+        {
+          "name": "rankings_1987.csv",
+          "path": "tennis_db/rankings/rankings_1987.csv",
+          "rows": 393,
+          "size_kb": 17.5
+        },
+        {
+          "name": "rankings_1988.csv",
+          "path": "tennis_db/rankings/rankings_1988.csv",
+          "rows": 451,
+          "size_kb": 20.0
+        },
+        {
+          "name": "rankings_1989.csv",
+          "path": "tennis_db/rankings/rankings_1989.csv",
+          "rows": 440,
+          "size_kb": 19.6
+        },
+        {
+          "name": "rankings_1990.csv",
+          "path": "tennis_db/rankings/rankings_1990.csv",
+          "rows": 380,
+          "size_kb": 17.0
+        },
+        {
+          "name": "rankings_1991.csv",
+          "path": "tennis_db/rankings/rankings_1991.csv",
+          "rows": 375,
+          "size_kb": 16.8
+        },
+        {
+          "name": "rankings_1992.csv",
+          "path": "tennis_db/rankings/rankings_1992.csv",
+          "rows": 367,
+          "size_kb": 16.5
+        },
+        {
+          "name": "rankings_1993.csv",
+          "path": "tennis_db/rankings/rankings_1993.csv",
+          "rows": 376,
+          "size_kb": 16.9
+        },
+        {
+          "name": "rankings_1994.csv",
+          "path": "tennis_db/rankings/rankings_1994.csv",
+          "rows": 397,
+          "size_kb": 17.8
+        },
+        {
+          "name": "rankings_1995.csv",
+          "path": "tennis_db/rankings/rankings_1995.csv",
+          "rows": 380,
+          "size_kb": 17.0
+        },
+        {
+          "name": "rankings_1996.csv",
+          "path": "tennis_db/rankings/rankings_1996.csv",
+          "rows": 380,
+          "size_kb": 17.9
+        },
+        {
+          "name": "rankings_1997.csv",
+          "path": "tennis_db/rankings/rankings_1997.csv",
+          "rows": 354,
+          "size_kb": 16.7
+        },
+        {
+          "name": "rankings_1998.csv",
+          "path": "tennis_db/rankings/rankings_1998.csv",
+          "rows": 341,
+          "size_kb": 16.1
+        },
+        {
+          "name": "rankings_1999.csv",
+          "path": "tennis_db/rankings/rankings_1999.csv",
+          "rows": 319,
+          "size_kb": 15.1
+        },
+        {
+          "name": "rankings_2000.csv",
+          "path": "tennis_db/rankings/rankings_2000.csv",
+          "rows": 324,
+          "size_kb": 15.2
+        },
+        {
+          "name": "rankings_2001.csv",
+          "path": "tennis_db/rankings/rankings_2001.csv",
+          "rows": 317,
+          "size_kb": 15.0
+        },
+        {
+          "name": "rankings_2002.csv",
+          "path": "tennis_db/rankings/rankings_2002.csv",
+          "rows": 305,
+          "size_kb": 14.4
+        },
+        {
+          "name": "rankings_2003.csv",
+          "path": "tennis_db/rankings/rankings_2003.csv",
+          "rows": 342,
+          "size_kb": 16.1
+        },
+        {
+          "name": "rankings_2004.csv",
+          "path": "tennis_db/rankings/rankings_2004.csv",
+          "rows": 332,
+          "size_kb": 15.7
+        },
+        {
+          "name": "rankings_2005.csv",
+          "path": "tennis_db/rankings/rankings_2005.csv",
+          "rows": 329,
+          "size_kb": 15.5
+        },
+        {
+          "name": "rankings_2006.csv",
+          "path": "tennis_db/rankings/rankings_2006.csv",
+          "rows": 352,
+          "size_kb": 16.6
+        },
+        {
+          "name": "rankings_2007.csv",
+          "path": "tennis_db/rankings/rankings_2007.csv",
+          "rows": 325,
+          "size_kb": 15.4
+        },
+        {
+          "name": "rankings_2008.csv",
+          "path": "tennis_db/rankings/rankings_2008.csv",
+          "rows": 337,
+          "size_kb": 15.9
+        },
+        {
+          "name": "rankings_2009.csv",
+          "path": "tennis_db/rankings/rankings_2009.csv",
+          "rows": 297,
+          "size_kb": 14.2
+        },
+        {
+          "name": "rankings_2010.csv",
+          "path": "tennis_db/rankings/rankings_2010.csv",
+          "rows": 317,
+          "size_kb": 15.1
+        },
+        {
+          "name": "rankings_2011.csv",
+          "path": "tennis_db/rankings/rankings_2011.csv",
+          "rows": 304,
+          "size_kb": 14.4
+        },
+        {
+          "name": "rankings_2012.csv",
+          "path": "tennis_db/rankings/rankings_2012.csv",
+          "rows": 295,
+          "size_kb": 14.0
+        },
+        {
+          "name": "rankings_2013.csv",
+          "path": "tennis_db/rankings/rankings_2013.csv",
+          "rows": 298,
+          "size_kb": 14.2
+        },
+        {
+          "name": "rankings_2014.csv",
+          "path": "tennis_db/rankings/rankings_2014.csv",
+          "rows": 277,
+          "size_kb": 13.2
+        },
+        {
+          "name": "rankings_2015.csv",
+          "path": "tennis_db/rankings/rankings_2015.csv",
+          "rows": 276,
+          "size_kb": 13.1
+        },
+        {
+          "name": "rankings_2016.csv",
+          "path": "tennis_db/rankings/rankings_2016.csv",
+          "rows": 298,
+          "size_kb": 14.2
+        },
+        {
+          "name": "rankings_2017.csv",
+          "path": "tennis_db/rankings/rankings_2017.csv",
+          "rows": 300,
+          "size_kb": 14.3
+        },
+        {
+          "name": "rankings_2018.csv",
+          "path": "tennis_db/rankings/rankings_2018.csv",
+          "rows": 287,
+          "size_kb": 13.7
+        },
+        {
+          "name": "rankings_2019.csv",
+          "path": "tennis_db/rankings/rankings_2019.csv",
+          "rows": 280,
+          "size_kb": 13.4
+        },
+        {
+          "name": "rankings_2020.csv",
+          "path": "tennis_db/rankings/rankings_2020.csv",
+          "rows": 234,
+          "size_kb": 11.3
+        },
+        {
+          "name": "rankings_2021.csv",
+          "path": "tennis_db/rankings/rankings_2021.csv",
+          "rows": 308,
+          "size_kb": 14.8
+        },
+        {
+          "name": "rankings_2022.csv",
+          "path": "tennis_db/rankings/rankings_2022.csv",
+          "rows": 301,
+          "size_kb": 14.5
+        },
+        {
+          "name": "rankings_2023.csv",
+          "path": "tennis_db/rankings/rankings_2023.csv",
+          "rows": 310,
+          "size_kb": 14.8
+        },
+        {
+          "name": "rankings_2024.csv",
+          "path": "tennis_db/rankings/rankings_2024.csv",
+          "rows": 282,
+          "size_kb": 13.6
+        },
+        {
+          "name": "rankings_2025.csv",
+          "path": "tennis_db/rankings/rankings_2025.csv",
+          "rows": 313,
+          "size_kb": 15.1
+        },
+        {
+          "name": "rankings_2026.csv",
+          "path": "tennis_db/rankings/rankings_2026.csv",
+          "rows": 224,
+          "size_kb": 10.9
+        }
+      ],
+      "tournaments": [
+        {
+          "name": "tournaments.csv",
+          "path": "tennis_db/tournaments/tournaments.csv",
+          "rows": 59,
+          "size_kb": 6.3
+        }
+      ]
+    },
+    "tennis_explorer": {
+      "atp": [
+        {
+          "name": "atp_results_2025.csv",
+          "path": "tennis_explorer/atp/atp_results_2025.csv",
+          "rows": 15851,
+          "size_kb": 1120.3
+        },
+        {
+          "name": "atp_results_2026.csv",
+          "path": "tennis_explorer/atp/atp_results_2026.csv",
+          "rows": 15502,
+          "size_kb": 1105.5
+        }
+      ],
+      "h2h": [
+        {
+          "name": "h2h_alexander-zverev_vs_novak-djokovic.csv",
+          "path": "tennis_explorer/h2h/h2h_alexander-zverev_vs_novak-djokovic.csv",
+          "rows": 34,
+          "size_kb": 1.6
+        },
+        {
+          "name": "h2h_carlos-alcaraz_vs_jannik-sinner.csv",
+          "path": "tennis_explorer/h2h/h2h_carlos-alcaraz_vs_jannik-sinner.csv",
+          "rows": 42,
+          "size_kb": 1.9
+        },
+        {
+          "name": "h2h_coco-gauff_vs_aryna-sabalenka.csv",
+          "path": "tennis_explorer/h2h/h2h_coco-gauff_vs_aryna-sabalenka.csv",
+          "rows": 26,
+          "size_kb": 1.1
+        },
+        {
+          "name": "h2h_daniil-medvedev_vs_novak-djokovic.csv",
+          "path": "tennis_explorer/h2h/h2h_daniil-medvedev_vs_novak-djokovic.csv",
+          "rows": 30,
+          "size_kb": 1.3
+        },
+        {
+          "name": "h2h_iga-swiatek_vs_aryna-sabalenka.csv",
+          "path": "tennis_explorer/h2h/h2h_iga-swiatek_vs_aryna-sabalenka.csv",
+          "rows": 30,
+          "size_kb": 1.4
+        },
+        {
+          "name": "h2h_iga-swiatek_vs_elena-rybakina.csv",
+          "path": "tennis_explorer/h2h/h2h_iga-swiatek_vs_elena-rybakina.csv",
+          "rows": 32,
+          "size_kb": 1.5
+        },
+        {
+          "name": "h2h_novak-djokovic_vs_rafael-nadal.csv",
+          "path": "tennis_explorer/h2h/h2h_novak-djokovic_vs_rafael-nadal.csv",
+          "rows": 122,
+          "size_kb": 5.0
+        },
+        {
+          "name": "h2h_novak-djokovic_vs_roger-federer.csv",
+          "path": "tennis_explorer/h2h/h2h_novak-djokovic_vs_roger-federer.csv",
+          "rows": 106,
+          "size_kb": 5.0
+        },
+        {
+          "name": "h2h_roger-federer_vs_rafael-nadal.csv",
+          "path": "tennis_explorer/h2h/h2h_roger-federer_vs_rafael-nadal.csv",
+          "rows": 88,
+          "size_kb": 4.1
+        }
+      ],
+      "rankings": [
+        {
+          "name": "atp_rankings.csv",
+          "path": "tennis_explorer/rankings/atp_rankings.csv",
+          "rows": 50,
+          "size_kb": 1.7
+        },
+        {
+          "name": "wta_rankings.csv",
+          "path": "tennis_explorer/rankings/wta_rankings.csv",
+          "rows": 50,
+          "size_kb": 1.7
+        }
+      ]
+    },
+    "tennis_abstract": {
+      "advanced_stats": [
+        {
+          "name": "advanced_stats.csv",
+          "path": "tennis_abstract/advanced_stats/advanced_stats.csv",
+          "rows": 4,
+          "size_kb": 0.2
+        }
+      ],
+      "elo": [
+        {
+          "name": "elo_atp.csv",
+          "path": "tennis_abstract/elo/elo_atp.csv",
+          "rows": 526,
+          "size_kb": 47.5
+        },
+        {
+          "name": "elo_wta.csv",
+          "path": "tennis_abstract/elo/elo_wta.csv",
+          "rows": 534,
+          "size_kb": 48.2
+        }
+      ],
+      "forecast": [
+        {
+          "name": "winprob_matrix_atp.csv",
+          "path": "tennis_abstract/forecast/winprob_matrix_atp.csv",
+          "rows": 32,
+          "size_kb": 7.0
+        },
+        {
+          "name": "winprob_matrix_wta.csv",
+          "path": "tennis_abstract/forecast/winprob_matrix_wta.csv",
+          "rows": 32,
+          "size_kb": 6.9
+        }
+      ],
+      "match_charting": [
+        {
+          "name": "charting_index.csv",
+          "path": "tennis_abstract/match_charting/charting_index.csv",
+          "rows": 17779,
+          "size_kb": 2104.8
+        }
+      ],
+      "surface_ratings": [
+        {
+          "name": "surface_speed_atp.csv",
+          "path": "tennis_abstract/surface_ratings/surface_speed_atp.csv",
+          "rows": 63,
+          "size_kb": 2.4
+        }
+      ]
+    }
+  }
+}

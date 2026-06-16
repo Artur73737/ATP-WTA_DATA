@@ -1,0 +1,60 @@
+name,winner,location,country,start_date,end_date,category,surface,prize_money
+Brisbane International Presented by ANZ,Daniil Medvedev,Brisbane,Australia,"Jan 4, 2026","Jan 11, 2026",ATP 250,Hard,"$800,045"
+Bank of China Hong Kong Tennis Open,Alexander Bublik,Hong Kong,Hong Kong,"Jan 5, 2026","Jan 11, 2026",ATP 250,Hard,"$700,045"
+Adelaide International,Tomas Machac,Adelaide,Australia,"Jan 12, 2026","Jan 17, 2026",ATP 250,Hard,"$700,045"
+ASB Classic,Jakub Mensik,Auckland,New Zealand,"Jan 12, 2026","Jan 17, 2026",ATP 250,Hard,"$700,045"
+Australian Open,Carlos Alcaraz,Melbourne,Australia,"Jan 18, 2026","Feb 1, 2026",Grand Slam,Hard,"A$49,171,000"
+Open Occitanie,Felix Auger-Aliassime,Montpellier,France,"Feb 2, 2026","Feb 8, 2026",ATP 250,Hard,"€612,620"
+ABN AMRO Open,Alex de Minaur,Rotterdam,Netherlands,"Feb 9, 2026","Feb 15, 2026",ATP 500,Hard,"€2,462,660"
+Ieb+ Argentina Open,Francisco Cerundolo,Buenos Aires,Argentina,"Feb 9, 2026","Feb 15, 2026",ATP 250,Clay,"$675,310"
+Nexo Dallas Open,Ben Shelton,Dallas,United States,"Feb 9, 2026","Feb 15, 2026",ATP 500,Hard,"$2,833,335"
+Qatar ExxonMobil Open,Carlos Alcaraz,Doha,Qatar,"Feb 16, 2026","Feb 21, 2026",ATP 500,Hard,"$2,833,335"
+Delray Beach Open,Sebastian Korda,Delray Beach,United States,"Feb 16, 2026","Feb 22, 2026",ATP 250,Hard,"$700,045"
+Rio Open Presented by Claro,Tomas Martin Etcheverry,Rio de Janeiro,Brazil,"Feb 16, 2026","Feb 22, 2026",ATP 500,Clay,"$2,469,450"
+Abierto Mexicano Telcel Presentado Por HSBC,Flavio Cobolli,Acapulco,Mexico,"Feb 23, 2026","Feb 28, 2026",ATP 500,Hard,"$2,469,450"
+Dubai Duty Free Tennis Championships,Daniil Medvedev,Dubai,United Arab Emirates,"Feb 23, 2026","Feb 28, 2026",ATP 500,Hard,"$3,311,005"
+BCI Seguros Chile Open,Luciano Darderi,Santiago,Chile,"Feb 23, 2026","Mar 1, 2026",ATP 250,Clay,"$700,045"
+BNP Paribas Open,Jannik Sinner,Indian Wells,United States,"Mar 4, 2026","Mar 15, 2026",Masters 1000,Hard,"$9,415,725"
+Miami Open Presented by Itau,Jannik Sinner,Miami,United States,"Mar 18, 2026","Mar 29, 2026",Masters 1000,Hard,"$9,415,725"
+Fayez Sarofim & Co. U.S. Men's Clay Court Championship,Tommy Paul,Houston,United States,"Mar 30, 2026","Apr 5, 2026",ATP 250,Clay,"$700,045"
+Grand Prix Hassan II,Rafael Jodar,Marrakech,Morocco,"Mar 30, 2026","Apr 5, 2026",ATP 250,Clay,"€612,620"
+Tiriac Open Presented by UniCredit Bank,Mariano Navone,Bucharest,Romania,"Mar 30, 2026","Apr 5, 2026",ATP 250,Clay,"€612,620"
+Rolex Monte-Carlo Masters,Jannik Sinner,Monte-Carlo,Monaco,"Apr 5, 2026","Apr 12, 2026",Masters 1000,Clay,"€6,309,095"
+Barcelona Open Banc Sabadell,Arthur Fils,Barcelona,Spain,"Apr 13, 2026","Apr 19, 2026",ATP 500,Clay,"€2,950,310"
+BMW Open by Bitpanda,Ben Shelton,Munich,Germany,"Apr 13, 2026","Apr 19, 2026",ATP 500,Clay,"€2,561,110"
+Mutua Madrid Open,Jannik Sinner,Madrid,Spain,"Apr 22, 2026","May 3, 2026",Masters 1000,Clay,"€8,235,540"
+Internazionali BNL d'Italia,Jannik Sinner,Rome,Italy,"May 6, 2026","May 17, 2026",Masters 1000,Clay,"€8,235,540"
+Bitpanda Hamburg Open,Ignacio Buse,Hamburg,Germany,"May 17, 2026","May 23, 2026",ATP 500,Clay,"€2,219,670"
+Gonet Geneva Open,Learner Tien,Geneva,Switzerland,"May 17, 2026","May 23, 2026",ATP 250,Clay,"€612,620"
+Roland Garros,Alexander Zverev,Paris,France,"May 24, 2026","Jun 7, 2026",Grand Slam,Clay,"€28,900,000"
+Boss Open,Ben Shelton,Stuttgart,Germany,"Jun 8, 2026","Jun 14, 2026",ATP 250,Grass,"€768,220"
+Libema Open,Kamil Majchrzak,'s-Hertogenbosch,Netherlands,"Jun 8, 2026","Jun 14, 2026",ATP 250,Grass,"€723,435"
+HSBC Championships,Live now,London,United Kingdom,"Jun 15, 2026","Jun 21, 2026",ATP 500,Grass,"€2,583,330"
+Terra Wortmann Open,Live now,Halle,Germany,"Jun 15, 2026","Jun 21, 2026",ATP 500,Grass,"€2,583,330"
+Vanda Pharmaceuticals Mallorca Championships,Upcoming,Mallorca,Spain,"Jun 21, 2026","Jun 27, 2026",ATP 250,Grass,—
+Lexus Eastbourne Open,Upcoming,Eastbourne,United Kingdom,"Jun 22, 2026","Jun 27, 2026",ATP 250,Grass,—
+Wimbledon,Upcoming,London,United Kingdom,"Jun 29, 2026","Jul 12, 2026",Grand Slam,Grass,—
+Plava Laguna Croatia Open Umag,Upcoming,Umag,Croatia,"Jul 13, 2026","Jul 18, 2026",ATP 250,Clay,—
+EFG Swiss Open Gstaad,Upcoming,Gstaad,Switzerland,"Jul 13, 2026","Jul 19, 2026",ATP 250,Clay,—
+Nordea Open,Upcoming,Bastad,Sweden,"Jul 13, 2026","Jul 19, 2026",ATP 250,Clay,—
+Generali Open,Upcoming,Kitzbuhel,Austria,"Jul 20, 2026","Jul 25, 2026",ATP 250,Clay,—
+Millennium Estoril Open,Upcoming,Estoril,Portugal,"Jul 20, 2026","Jul 26, 2026",ATP 250,Clay,—
+Mifel Tennis Open by Telcel Oppo,Upcoming,Los Cabos,Mexico,"Jul 27, 2026","Aug 1, 2026",ATP 250,Hard,—
+Mubadala Citi DC Open,Upcoming,Washington,United States,"Jul 27, 2026","Aug 2, 2026",ATP 500,Hard,—
+National Bank Open Presented by Rogers,Upcoming,Montreal,Canada,"Aug 2, 2026","Aug 13, 2026",Masters 1000,Hard,—
+Cincinnati Open,Upcoming,Cincinnati,United States,"Aug 13, 2026","Aug 23, 2026",Masters 1000,Hard,—
+Winston-Salem Open,Upcoming,Winston-Salem,United States,"Aug 23, 2026","Aug 29, 2026",ATP 250,Hard,—
+US Open,Upcoming,New York,United States,"Aug 31, 2026","Sep 13, 2026",Grand Slam,Hard,—
+Chengdu Open,Upcoming,Chengdu,China,"Sep 23, 2026","Sep 29, 2026",ATP 250,Hard,—
+Lynk & Co Hangzhou Open,Upcoming,Hangzhou,China,"Sep 23, 2026","Sep 29, 2026",ATP 250,Hard,—
+China Open,Upcoming,Beijing,China,"Sep 30, 2026","Oct 6, 2026",ATP 500,Hard,—
+Kinoshita Group Japan Open Tennis Championships,Upcoming,Tokyo,Japan,"Sep 30, 2026","Oct 6, 2026",ATP 500,Hard,—
+Rolex Shanghai Masters,Upcoming,Shanghai,China,"Oct 7, 2026","Oct 18, 2026",Masters 1000,Hard,—
+Almaty Open,Upcoming,Almaty,Kazakhstan,"Oct 19, 2026","Oct 25, 2026",ATP 250,Hard,—
+BNP Paribas Fortis European Open,Upcoming,Brussels,Belgium,"Oct 19, 2026","Oct 25, 2026",ATP 250,Hard,—
+Grand Prix Auvergne-Rhone-Alpes,Upcoming,Lyon,France,"Oct 19, 2026","Oct 25, 2026",ATP 250,Hard,—
+Erste Bank Open,Upcoming,Vienna,Austria,"Oct 26, 2026","Nov 1, 2026",ATP 500,Hard,—
+Swiss Indoors Basel,Upcoming,Basel,Switzerland,"Oct 26, 2026","Nov 1, 2026",ATP 500,Hard,—
+Rolex Paris Masters,Upcoming,Paris,France,"Nov 2, 2026","Nov 8, 2026",Masters 1000,Hard,—
+Bybit Stockholm Open,Upcoming,Stockholm,Sweden,"Nov 8, 2026","Nov 14, 2026",ATP 250,Hard,—
+Nitto ATP Finals,Upcoming,Turin,Italy,"Nov 15, 2026","Nov 22, 2026",ATP Finals,Hard,—
